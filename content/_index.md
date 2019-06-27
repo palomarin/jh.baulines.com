@@ -5,6 +5,10 @@ type: docs
 
 # Acerbo datus maxime
 
+```perl
+$a = 1;
+```
+
 {{< columns >}}
 ## Astris ipse furtiva
 

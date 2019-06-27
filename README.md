@@ -1,7 +1,7 @@
 # Initial site setup
 
 1. I followed the [setup instructions][hugo-book-setup] on the [Hugo
-   Book][hugo-book] site, substituting `mysite.jordanhartzell.com` for
+   Book][hugo-book] site, substituting `jh.baulines.com` for
    `msyite`.
 
 2. I added a README.md with this info.

@@ -7,6 +7,8 @@ calisthenics, there are some other teaching opportunities:
 - [ ] Set up caddy and GitHub to use a webhook, rather than polling.
 - [ ] Better branch restrictions for master
   - [ ] require status checks
+    - [ ] spelling
+    - [ ] hugo runs sucessfully
   - [ ] require reviews (me, Peter?)
 
 # Previewing the site

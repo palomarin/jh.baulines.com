@@ -3,6 +3,9 @@
 Beyond adding/rearranging content and doing git and GitHub
 calisthenics, there are some other teaching opportunities:
 
+- [ ] Makefile could be more flexible, define DESTDIR as variable,
+      default to `./public` (hugo's default) and have the Caddy config
+      file specify it on the `then` line.
 - [ ] Set up ssh access to GitHub, clone via `git+ssh`
 - [ ] Set up caddy and GitHub to use a webhook, rather than polling.
 - [ ] Better branch restrictions for master

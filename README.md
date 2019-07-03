@@ -25,10 +25,8 @@ calisthenics, there are some other teaching opportunities:
 We using (sigh) a *submodule* to tie in the [Hugo Book][hugo-book]
 theme, so we need to add an extra bit of glop to the clone command:
 
-
 ``` shell
 git clone --recurse-submodules https://github.com/palomarin/jh.baulines.com
-
 ```
 
 ## Run hugo in "server" mode

@@ -6,7 +6,7 @@ type: docs
 # Acerbo datus maxime
 
 {{< columns >}}
-## MOOSE ipse furtiva
+## ipse furtiva
 
 Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
 olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
